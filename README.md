@@ -3,8 +3,8 @@
 
 Developer, Designer and IT Student  
 - 🔭 I’m currently working on [Bialu Software](https://github.com/Bialu-Software)  
-- 🌱 I’m currently learning Python and React  
-- 🧻 My main languages are TypeScript, JavaScript, Python. MongoDB  
+- 🌱 I’m currently learning Python, React and MongoDB
+- 🧻 My main languages are TypeScript, JavaScript, Python
 <br/>  
 
 ## My Skill Set  
