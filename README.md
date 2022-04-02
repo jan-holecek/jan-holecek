@@ -10,7 +10,7 @@ Developer, Designer and IT Student
 ## My Skill Set  
 <table><tr><td valign="top" width="50%" align="center">
 
-## <div align="center">Frontend</div>
+### <div align="center">Frontend</div>
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
@@ -24,7 +24,7 @@ Developer, Designer and IT Student
 
 </td><td valign="top" width="50%" align="center">
 
-## <div align="center">Backend</div>
+### <div align="center">Backend</div>
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
