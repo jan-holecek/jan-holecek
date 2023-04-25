@@ -3,18 +3,21 @@
 
 Developer, Designer and IT Student  
 - 🔭 I’m currently working on [Bialu Software](https://github.com/Bialu-Software)  
-- 🌱 I’m currently learning Python, React and MongoDB
-- 🧻 My main languages are TypeScript, JavaScript, Python
+- 🌱 I’m currently learning Java
+- 🧻 My main languages are TypeScript, JavaScript, Python and Java
 <br/>  
 
 ## My Skill Set  
 
 ### <div>Frontend</div>
-<img src="https://skillicons.dev/icons?i=css,html,javascript,typescript,vue,react,figma,git&perline=7" alt="Frontend" height="150" /> 
+<img src="https://skillicons.dev/icons?i=css,sass,tailwind,html,javascript,typescript,jquery,vue,react&perline=9" alt="Frontend" height="50" /> 
 
 
 ### <div>Backend</div>
-<img src="https://skillicons.dev/icons?i=javascript,typescript,python,nodejs,java,mongo,mysql,git,jquery&perline=7" alt="Backend" height="150" /> 
+<img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,express,python,java,mongo,mysql&perline=9" alt="Backend" height="50" /> 
+
+### <div>Other</div>
+<img src="https://skillicons.dev/icons?i=figma,idea,linux,md,git&perline=9" alt="Backend" height="50" /> 
 
 <br/>   
 
