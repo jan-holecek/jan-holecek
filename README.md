@@ -3,8 +3,8 @@
 
 Developer, Designer and IT Student  
 - 🔭 I’m currently working on [Bialu Software](https://github.com/Bialu-Software)  
-- 🌱 I’m currently learning Java
-- 🧻 My main languages are TypeScript, JavaScript, Python and Java
+- 🌱 I’m currently learning Rust
+- 🧻 My main languages are TypeScript, JavaScript, Python and Rust
 <br/>  
 
 ## My Skill Set  
@@ -14,7 +14,7 @@ Developer, Designer and IT Student
 
 
 ### <div>Backend</div>
-<img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,express,python,java,mongo,mysql&perline=9" alt="Backend" height="50" /> 
+<img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,express,python,rust,mongo,mysql&perline=9" alt="Backend" height="50" /> 
 
 ### <div>Other</div>
 <img src="https://skillicons.dev/icons?i=figma,idea,linux,md,git&perline=9" alt="Backend" height="50" /> 
