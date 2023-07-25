@@ -14,7 +14,7 @@ Developer, Designer and IT Student
 
 
 ### <div>Backend</div>
-<img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,express,python,rust,mongo,mysql&perline=9" alt="Backend" height="50" /> 
+<img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,express,python,rust,php,mongo,mysql&perline=9" alt="Backend" height="50" /> 
 
 ### <div>Other</div>
 <img src="https://skillicons.dev/icons?i=figma,idea,linux,md,git&perline=9" alt="Backend" height="50" /> 
