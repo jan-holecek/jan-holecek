@@ -47,4 +47,7 @@ Developer, Designer and IT Student
 <a href="https://instagram.com/_jan.holecek_" target="_blank">
 <img src=https://img.shields.io/badge/Instagram-%231E57B8.svg?&style=for-the-badge&logo=websitem&logoColor=white alt=website style="margin-bottom: 5px;" />
 </a>  
+<a href="https://lookup.guru/717416755214942238" target="_blank">
+<img src=https://img.shields.io/badge/Discord-%231E57B8.svg?&style=for-the-badge&logo=websitem&logoColor=white alt=website style="margin-bottom: 5px;" />
+</a>
 </div>  
