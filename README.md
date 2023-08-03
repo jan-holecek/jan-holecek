@@ -36,7 +36,7 @@ Developer, Designer and IT Student
 
 <br/> 
 
-## Links
+## Contact Links
 <div>
 <a href="https://github.com/jan-holecek" target="_blank">
 <img src=https://img.shields.io/badge/Github-%231E57B8.svg?&style=for-the-badge&logo=website&logoColor=white alt=website style="margin-bottom: 5px;" />
