@@ -53,3 +53,4 @@ Developer, Designer and IT Student
 </div>  
 kámo funguj
 aleeee
+tak aleee
