@@ -51,8 +51,3 @@ Developer, Designer and IT Student
 <img src=https://img.shields.io/badge/Discord-%231E57B8.svg?&style=for-the-badge&logo=websitem&logoColor=white alt=website style="margin-bottom: 5px;" />
 </a>
 </div>  
-kámo funguj
-aleeee
-tak aleee
-poslední pokus
-tak ještě 1
