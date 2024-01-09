@@ -42,9 +42,6 @@ FS Developer, Designer and IT Student
 <a href="https://github.com/jan-holecek" target="_blank">
 <img src=https://img.shields.io/badge/Github-ff5f5f.svg?&style=for-the-badge&logo=website&logoColor=white&background-color=black alt=website style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/jan-holeček" target="_blank">
-<img src=https://img.shields.io/badge/Linkedin-ff5f5f.svg?&style=for-the-badge&logo=website&logoColor=white alt=website style="margin-bottom: 5px;" />
-</a>
 <a href="https://instagram.com/_jan.holecek_" target="_blank">
 <img src=https://img.shields.io/badge/Instagram-ff5f5f.svg?&style=for-the-badge&logo=websitem&logoColor=white alt=website style="margin-bottom: 5px;" />
 </a>  
