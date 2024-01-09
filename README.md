@@ -1,16 +1,17 @@
 # <div> I’m Jan Holeček</div>  
   
+<a href='https://ko-fi.com/astronawta' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Support me on Ko-fi' />
 
-Developer, Designer and IT Student  
+FS Developer, Designer and IT Student  
 - 🔭 I’m currently working on [Bialu Software](https://github.com/Bialu-Software)  
 - 🌱 I’m currently learning Rust
-- 🧻 My main languages are TypeScript, JavaScript, Python and Rust
+- 🧻 My main languages are TypeScript, Python and Rust
 <br/>  
 
 ## My Skill Set  
 
 ### <div>Frontend</div>
-<img src="https://skillicons.dev/icons?i=css,sass,tailwind,html,javascript,typescript,jquery,vue,react&perline=9" alt="Frontend" height="50" /> 
+<img src="https://skillicons.dev/icons?i=css,sass,tailwind,html,javascript,typescript,jquery,vue,nuxt&perline=9" alt="Frontend" height="50" /> 
 
 
 ### <div>Backend</div>
@@ -39,15 +40,15 @@ Developer, Designer and IT Student
 ## Contact Links
 <div>
 <a href="https://github.com/jan-holecek" target="_blank">
-<img src=https://img.shields.io/badge/Github-%231E57B8.svg?&style=for-the-badge&logo=website&logoColor=white alt=website style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/Github-ff5f5f.svg?&style=for-the-badge&logo=website&logoColor=white&background-color=black alt=website style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/jan-holeček" target="_blank">
-<img src=https://img.shields.io/badge/Linkedin-%231E57B8.svg?&style=for-the-badge&logo=website&logoColor=white alt=website style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/Linkedin-ff5f5f.svg?&style=for-the-badge&logo=website&logoColor=white alt=website style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/_jan.holecek_" target="_blank">
-<img src=https://img.shields.io/badge/Instagram-%231E57B8.svg?&style=for-the-badge&logo=websitem&logoColor=white alt=website style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/Instagram-ff5f5f.svg?&style=for-the-badge&logo=websitem&logoColor=white alt=website style="margin-bottom: 5px;" />
 </a>  
 <a href="https://lookup.guru/717416755214942238" target="_blank">
-<img src=https://img.shields.io/badge/Discord-%231E57B8.svg?&style=for-the-badge&logo=websitem&logoColor=white alt=website style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/Discord-ff5f5f.svg?&style=for-the-badge&logo=websitem&logoColor=white alt=website style="margin-bottom: 5px;" />
 </a>
 </div>  
