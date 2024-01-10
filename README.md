@@ -10,7 +10,7 @@ FS Developer, Designer and IT Student
 - 🧻 My main languages are TypeScript, Python and Rust
 <br/>  
 
-## My Skill Set  
+## Tools and Langs
 
 ### <div>Frontend</div>
 <div>
