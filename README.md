@@ -1,9 +1,8 @@
 # <div> I’m Jan Holeček (Astronawta)</div>  
 
 FS Developer, Designer and IT Student  
-- 🔭 I’m currently working on [Bialu Software](https://github.com/Bialu-Software)  
-- 🌱 I’m currently learning Rust
-- 🧻 My main languages are TypeScript, Python and Rust
+- 🔭 I’m currently working on super secret project.
+- 🌱 I’m currently learning Java
 <br/>  
 
 ## Tools and Langs
