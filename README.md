@@ -29,7 +29,8 @@ FS Developer, Designer and IT Student
 <img src="https://skillicons.dev/icons?i=nodejs&perline=1" alt="Backend" height="50" /> 
 <img src="https://skillicons.dev/icons?i=express&perline=1" alt="Backend" height="50" /> 
 <img src="https://skillicons.dev/icons?i=python&perline=1" alt="Backend" height="50" /> 
-<img src="https://skillicons.dev/icons?i=rust&perline=1" alt="Backend" height="50" /> 
+<img src="https://skillicons.dev/icons?i=java&perline=1" alt="Backend" height="50" /> 
+<img src="https://skillicons.dev/icons?i=php&perline=1" alt="Backend" height="50" /> 
 <img src="https://skillicons.dev/icons?i=mongo&perline=1" alt="Backend" height="50" /> 
 <img src="https://skillicons.dev/icons?i=mysql&perline=1" alt="Backend" height="50" /> 
 </div>
