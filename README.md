@@ -3,8 +3,7 @@
 FS Developer, Designer and IT Student  
 - 🔭 I’m currently working on super secret project.
 - 🌱 I’m currently learning Java
-<br/>  
-
+ 
 ## Tools and Langs
 
 ### <div>Frontend</div>
@@ -19,7 +18,6 @@ FS Developer, Designer and IT Student
 <img src="https://skillicons.dev/icons?i=vue&perline=1" alt="Frontend" height="50" /> 
 <img src="https://skillicons.dev/icons?i=nuxt&perline=1" alt="Frontend" height="50" /> 
 </div>
-
 
 ### <div>Backend</div>
 <div>
@@ -43,8 +41,6 @@ FS Developer, Designer and IT Student
 <img src="https://skillicons.dev/icons?i=git&perline=1" alt="Other" height="50" />
 </div>
 
-<br/>   
-
 ## Github Stats  
 <table style="border-radius:6px;" >
   <tr>
@@ -58,8 +54,6 @@ FS Developer, Designer and IT Student
   
 </table>
 
-<br/> 
-
 ## Contact Links
 <div>
 <a href="https://github.com/jan-holecek" target="_blank">
@@ -70,5 +64,8 @@ FS Developer, Designer and IT Student
 </a>  
 <a href="https://lookup.guru/717416755214942238" target="_blank">
 <img src=https://img.shields.io/badge/Discord-9C7967.svg?&style=for-the-badge&logo=websitem&logoColor=white alt=website style="margin-bottom: 5px;" />
+</a>
+<a href="mailto:jholecek55@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/Email-9C7967.svg?&style=for-the-badge&logo=website&logoColor=white&background-color=black alt=website style="margin-bottom: 5px;" />
 </a>
 </div>  
